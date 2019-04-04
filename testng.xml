@@ -3,7 +3,7 @@
 
     <test name ="testorder2">
         <classes>
-            <class name = "test.Opendriver.Test2.com.MainTest" >
+            <class name = "test.OpenDriver.Test2.com.MainTest" >
                 <methods>
                     <include name = "TestCat"/>
                     <include name = "TestEat"/>
